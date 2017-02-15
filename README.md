@@ -16,8 +16,8 @@ angular.module('starter', ['ionic', 'ui.rCalendar'])
 calendar calendar-mode="mode" event-source="eventSource"
 
 
-For test mobile : 
-cordova platform add android --save
-Ionic build
+# For test mobile : 
+# cordova platform add android --save
+# Ionic build
 
-ionic emulate android
+# ionic emulate android
